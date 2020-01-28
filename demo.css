@@ -17,8 +17,8 @@
     background-color: blue;
 }
 
- .p{
-    font-size: 30px;
+p{
+    font-size: 40px;
     font-weight: lighter;
    
  }
@@ -34,3 +34,20 @@
      text-align: center;
      padding-left: 15px;
  }
+ #vinh{
+    display:flex;
+    justify-content: space-around;
+ }
+ .vinh{
+    margin: 25px;
+    font-size: medium;
+    padding: 15px;
+    border-radius: 6px 6px 6px 6px;
+    border: solid 1px;
+}
+.vuong{
+    border-radius: 10px 10px 10px 10px;
+    height: 250px;
+    width: 300px;
+}
+
