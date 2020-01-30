@@ -23,12 +23,11 @@ p{
    
  }
  .my{
-     padding:5% ;
-     margin: 5%;
+     padding:1% ;
      border: black solid 1px;
      border-radius: 10px 10px 10px 10px;
      width: 100%;
-     height: 30%;
+     height: 33%;
  }
  #vinh{
     display:flex;
