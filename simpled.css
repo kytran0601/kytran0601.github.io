@@ -23,7 +23,7 @@ p{
    
  }
  .my{
-     padding:2% ;
+     padding:1% ;
      border: black solid 1px;
      border-radius: 10px 10px 10px 10px;
      width: 100%;
@@ -56,5 +56,15 @@ main{
 }
 footer{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url("background footer.png"), url("paper.gif");
+}
+.mky{
+    font-size: 30px;
+    color: brown;
+}
+.mak{
+}
+.tdmky{
+    font-size: 20px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
