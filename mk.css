@@ -71,3 +71,9 @@ footer{
     color: grey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.tk{
+    margin: 20px;
+    border: black 2px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding:25px;
+}
