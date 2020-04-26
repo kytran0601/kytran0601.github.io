@@ -61,11 +61,6 @@ footer{
     font-size: 30px;
     color: brown;
 }
-.mak{
-    width: ;
-    height: 700px ;
-    border-radius: 10px 10px 10px 10px ;
-}
 .tdmky{
     font-size: 20px;
     color: grey;
@@ -75,5 +70,9 @@ footer{
     margin: 20px;
     border: black 2px solid;
     border-radius: 10px 10px 10px 10px;
-    padding:25px;
+    padding:20px;
+}
+.tdk{
+    width: 50%;
+    border-radius: 10px 10px 10px 10px ;
 }
