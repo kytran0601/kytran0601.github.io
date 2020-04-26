@@ -75,4 +75,5 @@ footer{
 .tdk{
     width: 50%;
     border-radius: 10px 10px 10px 10px ;
+    border: black 2px solid;
 }
