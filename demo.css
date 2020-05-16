@@ -1,7 +1,7 @@
 #my{
     background: #e6e6ff;
     /* padding: 20px; */
-    color: #ffff00;
+    color:#404040;
     overflow: hidden;
 }
 
@@ -20,19 +20,18 @@
 p{
     font-size: 20px;
     font-weight: lighter;
+    margin: 0;
    
  }
  .my{
-     padding:1% ;
-     border: black solid 1px;
-     border-radius: 10px 10px 10px 10px;
-     width: 100%;
+     width: 45%;
      height: 20%;
-     margin: 4%;
+     margin: 1%;
  }
  #vinh{
     display:flex;
-    justify-content: space-around;
+    justify-content: flex-start;
+    width: 750px;
  }
  .vinh{
     margin: 25px;
@@ -43,8 +42,8 @@ p{
 }
 .vuong{
     border-radius: 10px 10px 10px 10px;
-    height: 250px;
-    width: 300px;
+    height: 200px;
+    width: 100%;
 }
 #ky{
     font-size: 30px;
@@ -60,14 +59,21 @@ footer{
 .mky{
     font-size: 30px;
     color: brown;
+    width: 50%;
 }
-.mak{
-    width: ;
-    height: 700px ;
-    border-radius: 10px 10px 10px 10px ;
+.tk{
+    margin: 20px;
+    border: black 2px solid;
+    border-radius: 10px 10px 10px 10px;
+    padding:0px;
+    background-color:#b3ffb3;
 }
-.tdmky{
-    font-size: 20px;
-    color: grey;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.tdk{
+    border-radius: 20px 20px 20px 20px;
+    width: 50%;
+}
+.ny{
+    border: black 2px solid;
+    padding: 20px;
+
 }
