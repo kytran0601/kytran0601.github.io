@@ -57,9 +57,10 @@ footer{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .mky{
-    font-size: 30px;
+    font-size: 40px;
     color: brown;
     width: 50%;
+    line-height: 3;
 }
 .tk{
     margin: 20px;
@@ -76,4 +77,17 @@ footer{
     border: black 2px solid;
     padding: 10px;
     height: 25%;
+}
+.tny{
+    background: blueviolet;
+    /* padding: 20px; */
+    color:#404040;
+    overflow: hidden;
+}
+.tdny{
+    font-size: 20px;
+    padding: 20px;
+    font-weight:bold ;
+    text-align: center;
+    float: left
 }
